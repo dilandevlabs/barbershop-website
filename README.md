@@ -1,5 +1,4 @@
-# Barbershop Landing Page
-
+# Barbershop Website
 A modern and responsive website concept for a professional barbershop, designed to present its services, style, and brand identity through a clean and visually focused interface.
 
 ## Overview
