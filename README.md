@@ -1,19 +1,52 @@
-# Barber Shop Website
+# Barbershop Landing Page
 
-Sitio web responsive desarrollado con HTML y CSS.
+A modern and responsive website concept for a professional barbershop, designed to present its services, style, and brand identity through a clean and visually focused interface.
 
-## Características
+## Overview
 
-- Responsive Design
-- Flexbox
-- CSS Grid
-- Diseño moderno
+The project was designed around a contemporary barbershop experience, focusing on strong visual hierarchy, clear service presentation, and simple navigation.
 
-## Tecnologías
+The design uses a light visual style with gold accents to create a professional appearance without making the website feel overly luxurious.
 
-- HTML
-- CSS
+## Features
 
-## IMPORTANTE: 
+- Responsive layout
+- Hero section with call-to-action
+- Services section
+- Barber/team presentation
+- Image gallery
+- Testimonials
+- FAQ section
+- Contact information
+- Responsive navigation and footer
 
-LAS IMÁGENES DEL SITIO WEB HAN SIDO GENERADAS MEDIANTE INTELIGENCIA ARTIFICIAL
+## Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Design
+
+The interface follows a clean and modern visual direction with a light background and gold accent color.
+
+The design prioritizes:
+
+- Clear typography
+- Strong visual hierarchy
+- Simple navigation
+- Consistent spacing
+- Mobile responsiveness
+- Conversion-focused call-to-action sections
+
+## Purpose
+
+This project was created to practice building a realistic local-business website while improving frontend development, responsive layouts, UI design, and user experience.
+
+## Status
+
+Completed
+
+## Author
+
+Dilan Esteban
