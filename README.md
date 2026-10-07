@@ -1,6 +1,14 @@
 # Barbershop Website
 A modern and responsive website concept for a professional barbershop, designed to present its services, style, and brand identity through a clean and visually focused interface.
 
+## Website
+
+[View Website](https://dilandevlabs.github.io/barbershop-website/)
+
+## Preview
+
+<img src="assets/preview.png" width="900">
+
 ## Overview
 
 The project was designed around a contemporary barbershop experience, focusing on strong visual hierarchy, clear service presentation, and simple navigation.
